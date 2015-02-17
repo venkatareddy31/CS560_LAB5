@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: talent-manager-awesome-13
+  name: talent-manager-awesome-13
+  path: webStarterApp.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
